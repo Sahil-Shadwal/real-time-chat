@@ -11,3 +11,10 @@ Build a simple chat applications using raw websockets in Node.js that supports t
 - Allow users to upvote chat messages.
 - If chat messages reach more than 3 upvotes, move them over to a saparate section.
 - If chat messages reach more than 10 upvotes, alert the admin to answer.
+
+## Steps
+
+- npm install typescript
+- npm tsc --init
+- npm init -y ( for creating empty package json file)
+- changed rootdir and outdir in tsconfig file
